@@ -78,7 +78,7 @@ Quilometragem: No Brasil, este é um fator determinante. O ideal é comprar veí
 Origem do Veículo: Cuidado com carros vindos de locadoras ou de cidades litorâneas (devido à maresia que desgasta a lataria e componentes elétricos).
 Dica Extra: Sempre consulte a Tabela FIPE como referência média, mas lembre-se que o estado de conservação real pode fazer o preço variar para cima ou para baixo dessa média
 
-Miniguia de Estudo:
+Miniguia de estudo:
 - Resumo:
 - Para dominar o assunto da desvalorização do automóvel, seja para proteger o seu património ou para realizar uma palestra sobre o tema, é fundamental compreender que este é um fenómeno natural que atinge quase todos os bens de consumo assim que saem da loja. No entanto, a intensidade desta perda de valor é ditada por uma combinação de fatores de mercado e cuidados individuais.
 1. Pilares da Desvalorização: O que precisa de saber.
