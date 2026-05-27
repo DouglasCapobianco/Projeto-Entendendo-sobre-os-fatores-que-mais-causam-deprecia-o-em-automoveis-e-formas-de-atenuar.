@@ -1,6 +1,11 @@
+# Objetivo: Criação de uma IA atravez do Notebook.lm especialista em depreciação de automoveis.
+Atravez das fontes fornecidas como videos, sites e blogs relevantes, a Ia poderá responder causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e tambem amneiras de minimizar essa desvalorização.
+
+O tema foi escolhido por estar relacionado a coleta e analise de dados, algo muito relevante ao curso, por estar presente na vida de todos, pois automoveis são transporte, algo essencial em nossas vidas, e tambem para espalhar conhecimentos e tecnicas importantes de cuidados e preservação para automoveis, bens tão importantes.
+
 Glossario:
-  14 - Objetivo do Projeto
-  17 - Por que o tema foi escolhido
+  1 - Objetivo do Projeto
+  4 - Por que o tema foi escolhido
   19 - Curadoria de fontes
   27 - Engenharia de Prompt
   28 - Engenharia de Prompt (pergunta genérica)
@@ -11,11 +16,6 @@ Glossario:
   106 - Pontos impostantes
   112 - Prompts extra
   
-# Objetivo: Criação de uma IA atravez do Notebook.lm especialista em depreciação de automoveis.
-Atravez das fontes fornecidas como videos, sites e blogs relevantes, a Ia poderá responder causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e tambem amneiras de minimizar essa desvalorização.
-
-O tema foi escolhido por estar relacionado a coleta e analise de dados, algo muito relevante ao curso, por estar presente na vida de todos, pois automoveis são transporte, algo essencial em nossas vidas, e tambem para espalhar conhecimentos e tecnicas importantes de cuidados e preservação para automoveis, bens tão importantes.
-
 Curadoria de Fontes:
 https://www.youtube.com/watch?v=QnJfJNM1avI&t=304s
 https://www.youtube.com/watch?v=ZKv4ivT7oR8
