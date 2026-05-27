@@ -1,7 +1,7 @@
 # Objetivo: Criação de uma IA atravez do Notebook.lm especialista em depreciação de automoveis.
-Atravez das fontes fornecidas como videos, sites e blogs relevantes, a Ia poderá responder causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e tambem amneiras de minimizar essa desvalorização.
+Atravez das fontes fornecidas como videos, sites e blogs relevantes, a IA poderá responder questões como causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e também a maneiras de atenuar essa desvalorização.
 
-O tema foi escolhido por estar relacionado a coleta e analise de dados, algo muito relevante ao curso, por estar presente na vida de todos, pois automoveis são transporte, algo essencial em nossas vidas, e tambem para espalhar conhecimentos e tecnicas importantes de cuidados e preservação para automoveis, bens tão importantes.
+O tema foi escolhido por estar relacionado a coleta e analise de dados, algo muito relevante ao curso, por estar presente na vida de todos, pois automoveis são transporte, algo essencial em nossas vidas, e tambem para espalhar conhecimentos e técnicas de cuidados e preservação para automoveis.
 
 Glossario:
   1 - Objetivo do Projeto
@@ -29,15 +29,15 @@ Pergunta: Atraves de seus conhecimentos em depreciação de automoveis, poderia 
 
 Resposta: Em resumo, enquanto o mercado é regido pela demanda do modelo, o proprietário garante a menor perda possível através de uma manutenção rigorosa e preservação da originalidade do veículo. ( a responta em sí foi bem abrangente com tres fatores bem explicados e com o resumo citado acima).
 
-Em seguida pedi para que mudasse para uma resposta simples e em topicos.   
+Em seguida pedi para que mudasse para uma resposta simples e em tópicos.   
 Resposta: Aqui está um resumo simplificado dos fatores mais importantes sobre a desvalorização de carros, conforme os pontos principais discutidos:
--Lei da Oferta e Procura: Carros com alta aceitação no mercado, como os SUVs, desvalorizam bem menos do que modelos com baixa procura
--Estado de Conservação: É o fator que o dono mais consegue controlar. Problemas mecânicos ou batidas na lataria fazem o valor despencar
--O "Tombo" Inicial: A perda de valor é muito mais forte nos dois primeiros anos de uso, podendo chegar a 25% logo no primeiro ano
--Passagem por Leilão: É um dos maiores "vilões", podendo causar uma desvalorização de até 60% no preço do veículo
--Alta Quilometragem: Quanto mais o carro rodou, maior o desgaste das peças e, consequentemente, menor o seu valor de revenda
--Manutenção e Pós-venda: Marcas que oferecem peças baratas e revisões acessíveis tendem a manter o preço melhor do que as que têm manutenção difícil
--Originalidade: Carros personalizados (tuning) ou com cores muito chamativas são mais difíceis de vender. O mercado prefere cores neutras (branco, preto e prata) e peças originais
+- Lei da Oferta e Procura: Carros com alta aceitação no mercado, como os SUVs, desvalorizam bem menos do que modelos com baixa procura
+- Estado de Conservação: É o fator que o dono mais consegue controlar. Problemas mecânicos ou batidas na lataria fazem o valor despencar
+- O "Tombo" Inicial: A perda de valor é muito mais forte nos dois primeiros anos de uso, podendo chegar a 25% logo no primeiro ano
+- Passagem por Leilão: É um dos maiores "vilões", podendo causar uma desvalorização de até 60% no preço do veículo
+- Alta Quilometragem: Quanto mais o carro rodou, maior o desgaste das peças e, consequentemente, menor o seu valor de revenda
+- Manutenção e Pós-venda: Marcas que oferecem peças baratas e revisões acessíveis tendem a manter o preço melhor do que as que têm manutenção difícil
+- Originalidade: Carros personalizados (tuning) ou com cores muito chamativas são mais difíceis de vender. O mercado prefere cores neutras (branco, preto e prata) e peças originais
 
 Pedi para simplificar em um resumo limitado em ate 600 caracters, gerando um prompt com limitação.
 
