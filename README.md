@@ -1,5 +1,5 @@
 # Objetivo: Criação de uma IA atravez do Notebook.lm especialista em depreciação de automoveis.
-Atravez das fontes fornecidas como videos, sites e blogs relevantes, a IA poderá responder questões como causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e também a maneiras de atenuar essa desvalorização.
+Através das fontes fornecidas como videos, sites e blogs relevantes, a IA poderá responder questões como causas principais, quais fatores mais influenciam , quais modelos mais perdem valor, cuidados na compra e revenda e também a maneiras de atenuar essa desvalorização.
 
 O tema foi escolhido por estar relacionado a coleta e analise de dados, algo muito relevante ao curso, por estar presente na vida de todos, pois automoveis são transporte, algo essencial em nossas vidas, e tambem para espalhar conhecimentos e técnicas de cuidados e preservação para automoveis.
 
@@ -25,7 +25,7 @@ https://seminovos.unidas.com.br/blog/depreciacao-de-veiculos/
 https://quatrorodas.abril.com.br/noticias/melhor-revenda-2026-veja-os-carros-mais-valorizados-do-brasil-no-ultimo-ano/
 
 Engenharia de Prompts:
-Pergunta: Atraves de seus conhecimentos em depreciação de automoveis, poderia me indicar qual o fator mais relevante sobre o assunto? (uma pergunta generica para entender como ela lidaria e o quão abrangente seria).
+Pergunta: Através de seus conhecimentos em depreciação de automóveis, poderia me indicar quais o fatores relevantes sobre o assunto? (uma pergunta generica para entender como ela lidaria e o quão abrangente seria).
 
 Resposta: Em resumo, enquanto o mercado é regido pela demanda do modelo, o proprietário garante a menor perda possível através de uma manutenção rigorosa e preservação da originalidade do veículo. ( a responta em sí foi bem abrangente com tres fatores bem explicados e com o resumo citado acima).
 
